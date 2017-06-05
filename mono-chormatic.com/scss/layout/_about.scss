@@ -1,0 +1,153 @@
+/* ========================
+ABOUT
+========================= */
+
+#about-me{
+	@media #{$desktop-breakpoint}{
+		background-color: $blacksheep;
+	}
+}
+
+#primary{
+
+	@media #{$desktop-breakpoint}{
+		max-width: 60%;
+		margin: 0 auto;	
+
+		padding: 30vh;
+	}
+
+	& h2,
+	& h1, 
+	& p {
+		@include margin-padding(0, 0);
+	}
+
+	& h2,
+	& h1 {
+		text-transform:  uppercase;	
+		padding: .5em 0;
+
+	}
+
+	& h2, 
+	& p {
+		font-family: $sansfamily;
+	}
+
+	& img.profilepic {
+		width: 300px;
+		height: 300px;
+
+		border-radius: 100% 100%;
+
+		padding: 2.5em 0;
+
+		@media #{$desktop-breakpoint}{
+			display: none;
+		}
+	}
+
+	& img.display-logo{
+
+		height: 2.5em;
+		width: 2.5em;
+
+		@media #{$mobile-breakpoint}{
+			display: none;
+		}
+
+	}
+
+	& h2 {
+		font-size: .8em;
+		font-weight: 100;
+		letter-spacing: 3px;
+		color: $goldenbar;
+
+		@media #{$desktop-breakpoint}{
+			display: none;
+		}
+	}
+
+	& h1 {
+		font-family: $serfifamily;		
+		font-weight: 100;
+
+		@media #{$desktop-breakpoint}{
+			color: $paperwhite;
+			padding: .5em;
+
+			font-size: 3.5em;	
+		}
+
+	}
+
+	& p {
+		@media #{$desktop-breakpoint}{
+			color: $goldenbar;
+			padding: 0 1.6em;
+		}
+	}
+}
+
+#secondary {
+
+	@media #{$desktop-breakpoint}{
+		padding: 2em 1.5em;
+		text-align: justify;
+
+		background-color: $paperwhite;
+
+		display: flex;
+		justify-content: space-between;
+	}
+
+	& img.logo-black {
+		display: inline-block;
+		width: 20px;
+		height: 20px;
+
+		margin: 0;
+		padding: 1em;
+
+		@media #{$desktop-breakpoint}{
+			display: none;
+		}
+	}
+
+}
+
+	.contact-info{
+		padding: 1em 0;
+
+		& p {
+		@include margin-padding(0,0);
+
+		color: $goldenbar;
+		font-family: $sansfamily;	
+
+			@media #{$desktop-breakpoint}{
+				font-size: 3em;
+			}
+		}
+	}
+
+	.social-follow{
+		margin: 0;		
+		padding: 2em 0;
+		
+		& a {
+			margin: 0;
+		}
+		& img {
+			width: 50px;
+			height: 50px;
+
+			@media #{$desktop-breakpoint}{
+				width: 80px;
+				height: 80px;
+			}
+		}
+	}
+

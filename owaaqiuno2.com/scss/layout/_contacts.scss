@@ -1,0 +1,66 @@
+
+
+/*=========================
+	CONTACTS
+========================*/
+
+#contact {
+	@extend %page-heading;
+}
+
+form {
+  max-width: 500px;
+  margin: 10px auto;
+  padding: 10px 20px;
+
+	input[type*="text"]{
+		@extend %margin-bottom-5percent;
+		@include border-background(none, $ebb);
+		height: 30px;
+		padding-left: 10px;
+		font-family: $champagne_bold;	
+		color: $jumbo;
+		width: 100%;
+	}
+
+	textarea {
+		@extend %margin-bottom-5percent;
+		@include border-background(none, $ebb);
+		height: 320px;
+		resize: none;
+		width: 100%;
+	}
+
+	button {
+		@extend %margin-bottom-5percent;
+		width: 30%;
+	}
+}
+
+
+/*=========================
+	About me
+========================*/
+
+#aboutMe{
+
+	& {
+		@extend %center-things;
+		max-width: 70%;
+	}
+
+	& img{
+		max-width: 90%;
+	}
+
+	& p{
+		@extend %fullpadding;
+		text-align: center;
+	}
+}
+
+#contactInfo {
+	@include margin-padding(0, 0);
+	list-style: none;
+	text-align: center;
+}

@@ -1,0 +1,564 @@
+/*! HTML5 Boilerplate v4.3.0 | MIT License | http://h5bp.com/ */
+
+html,
+button,
+input,
+select,
+textarea {
+    color: #222;
+}
+
+html {
+    font-size: 1em;
+    line-height: 1.4;
+}
+
+::-moz-selection {
+    background: #b3d4fc;
+    text-shadow: none;
+}
+
+::selection {
+    background: #b3d4fc;
+    text-shadow: none;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+}
+
+audio,
+canvas,
+img,
+video {
+    vertical-align: middle;
+}
+
+fieldset {
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+textarea {
+    resize: vertical;
+}
+
+.browsehappy {
+    margin: 0.2em 0;
+    background: #ccc;
+    color: #000;
+    padding: 0.2em 0;
+}
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+.inner_wrap{
+    width: 1170px;
+    margin: 0 auto;
+}
+
+h1, h3, p, a {
+    margin: 0;
+    padding: 0;
+}
+
+.description{
+    text-align: center;
+    color: #ffffff;    
+    margin-bottom: 75px;
+}
+    .description h1{
+        font-size: 48px;
+        margin-bottom: 30px;
+        font-weight: 400;
+    }
+    .description p{
+        font-size: 24px;
+        font-weight: 250;
+    }
+    .description span a{
+        text-decoration: none;
+        color: #de5e60;
+    }
+
+/* ==== LANDING PAGE ==== */
+
+#landing-page{    
+    height: 1080px;            
+    background-color: #1b1d20;
+}
+#banner{
+    height: 1030px;
+    margin: 0;
+    padding: 0;
+
+}
+    #banner img{
+        display: block;
+        margin: 0 auto;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        margin-right: -50%;
+        transform: translate(-50%, -50%);
+    }
+
+#quick-nav{
+    background-color: #2f3238;
+    height: 50px;
+    margin: 0;
+    padding: 0;
+}
+    #quick-nav img{
+        margin: 0;
+        padding: 0;
+        display: block;
+        float: left;
+    }
+    .toggle-nav{
+        float: right;
+    }
+
+/* ==== MAIN NAVIGATION ==== */
+
+#main-nav{
+    background: #26292e;
+    height: 60px;
+    padding-top: 20px;
+    padding-bottom: 0;
+    margin: 0;
+}
+#logo{
+    float: left;
+    margin-left: 15px;
+    padding: 0  ;
+}
+    #logo h1,
+    #logo a{
+        margin: 0;
+        padding: 0;   
+    }
+        #logo h1{
+            background: url("../img/logo_brushed_nav.png") no-repeat 0 0;
+            width: 94px;
+            height: 18px;
+        }
+        #logo a{
+            display: block;
+            text-indent: -999px;
+            overflow: hidden;
+        }
+#nav-options{
+    float: right;
+    margin: 0;
+    padding: 0;
+
+}
+    #nav-options ul,
+    #nav-options li,
+    #nav-options a{
+        margin: 0;
+        padding: 0;
+    }
+        #nav-options ul{
+            margin-right: 15px;
+        }
+        #nav-options li{
+            display: inline-block;
+            float: left;
+            margin-left: 45px;
+        }
+            #nav-options a{
+                color: #fefefe;
+                text-decoration: none;
+                text-transform: uppercase;
+                font-weight: 400;
+            }
+            #nav-options a:hover{
+                color: #de5e60;
+            }
+
+/* ==== PORTFOLIO ==== */
+
+#portfolio{
+    background-color: #2f3238;
+    height: 1048px;
+    padding-top: 100px;
+}
+#quick-link{
+    float: left;
+    width: 170px;
+}
+    #quick-link h3{
+        font-weight: 400;
+        color: #fefefe;
+    }
+    #quick-link ul{
+        padding: 0;
+        list-style-type: none;
+    }
+    #quick-link li{
+        list-style: none;
+    }
+    #quick-link li a{
+        color: #7f8289;
+        text-decoration: none;
+    }
+    #quick-link li a:hover{
+        color: #de5e60;
+    }
+#samples {
+    margin: 0;
+    padding-left: 0;
+    float: right;
+    width: 1000px;
+}
+#sample_works{
+    position: absolute;
+
+}
+    #sample_works img{
+        margin: 10px 10px;
+        padding: 0;
+    }
+
+/* ==== ABOUT US ==== */
+
+#about-us {
+    background-color: #26292e;
+    height: 1100px;
+    padding-top: 100px;
+}
+
+#user_profile{
+
+}
+
+.profile{
+    width: 370px;
+    float: left;
+    margin-right: 20px;
+    color: #fefefe;
+}
+    .profile h3{
+        margin: 20px 0;
+        padding: 0;
+    }
+    .profile p{
+        color: #7f8289;
+        margin-bottom: 20px;
+    }
+    .profile_social img{
+        margin-right: 20px;
+    }
+#purchase{
+    width: 900px;
+    margin-top: 125px;
+    float: left;
+    padding: 30px 0 0 30px;
+    height: 170px;
+    border-left: 2px #de5e60 solid;
+}
+    #purchase h3{
+        color: #fefefe;
+        margin-bottom: 20px;
+    }
+    #purchase h3 span{
+        color: #de5e60;
+    }
+    #purchase p{
+        color: #7f8289;
+    }
+
+#purch_btn{
+    float: left;
+}
+    #purch_btn input{}
+
+/* ==== CONTACT ==== */
+
+#contact{
+    background-color: #2f3238;
+    height: 905px;
+    padding-top: 100px;
+}
+#user_forms{
+    width: 870px;
+    float: left;
+    margin-right: 50px;
+}
+    .textboxes input{
+        background-color: #26292e;
+        border: none;
+        width: 870px;
+        height: 60px;
+        margin: 1px;
+    }
+    .textarea textarea{
+        background-color: #26292e;
+        border: none;
+        width: 870px;
+        height: 400px;
+        resize: none;
+
+    }
+    .buttons input{
+        width: 170px;
+        height: 60px;
+        margin-top: 30px;
+        text-transform: uppercase;
+        border: none;
+        background-color: #3c3f45;
+        color: #ffffff;
+    }
+#contact-details{
+    margin: 0;
+    padding: 0;
+}  
+    #contact-details h3{
+        text-transform: uppercase;
+        color: #fefefe;
+    }
+    #contacts p{
+        color: #7f8289;
+        margin: 10px 0;
+    }
+    #address p{
+        color: #7f8289;
+    }
+
+/* ==== ACTIVITY ==== */
+
+#activity{
+    height: 140px;
+    background-color: #26292e;
+    margin: 0;
+    padding-top: 120px;
+
+}
+#recent{
+    margin: 0 auto;
+    position: relative;
+
+}
+    .new-activity{
+        float: left;
+        margin-right: 15px;    
+        position: absolute;    
+        top: 50%;
+        left: 50%;
+        margin-right: -50%;
+        transform: translate(-50%, -50%)
+    }
+        .new-activity p{
+            color: #7f8289;
+
+        }
+        .new-activity p a {
+            text-decoration: none;
+            color: #de5e60;
+        }
+        .new-activity p span {
+            color: #ffffff;
+        }
+    .activity-time{
+    }
+        .activity-time p{
+            color: #7f8289;
+            font-style: italic;
+        }
+#social-activity{
+    margin-top: 65px;
+}
+    #social-activity img{
+        display: block;
+        margin: 0 auto;
+    }
+
+/* ==== SOCIAL LINKS ==== */
+
+#social-links{
+    height: 170px;
+    background-color: #2f3238;
+    padding-top: 85px;
+}
+    #medias{
+        margin: auto 0;
+    }
+        #medias img{
+            margin: 0 15px;
+        }
+
+/* ==== FOOTER ==== */
+
+#footnote{
+    height: 35px;
+    background-color: #26292e;
+    text-align: center;
+    padding-top: 25px;
+    position: relative;
+}
+    #footnote p{
+        color: #ffffff;
+        text-transform: uppercase;
+        font-weight: 600;    
+        position: absolute;    
+        top: 50%;
+        left: 50%;
+        margin-right: -50%;
+        transform: translate(-50%, -50%)
+    }
+    #footnote p span{
+        color: #de5e60;
+    }
+/* ==========================================================================
+   Media Queries
+   ========================================================================== */
+
+@media only screen and (min-width: 35em) {
+
+}
+
+@media print,2
+       (-o-min-device-pixel-ratio: 5/4),
+       (-webkit-min-device-pixel-ratio: 1.25),
+       (min-resolution: 120dpi) {
+
+}
+
+/* ==========================================================================
+   Helper classes
+   ========================================================================== */
+
+.ir {
+    background-color: transparent;
+    border: 0;
+    overflow: hidden;
+    *text-indent: -9999px;
+}
+
+.ir:before {
+    content: "";
+    display: block;
+    width: 0;
+    height: 150%;
+}
+
+.hidden {
+    display: none !important;
+    visibility: hidden;
+}
+
+.visuallyhidden {
+    border: 0;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    position: absolute;
+    width: 1px;
+}
+
+.visuallyhidden.focusable:active,
+.visuallyhidden.focusable:focus {
+    clip: auto;
+    height: auto;
+    margin: 0;
+    overflow: visible;
+    position: static;
+    width: auto;
+}
+
+.invisible {
+    visibility: hidden;
+}
+
+.clearfix:before,
+.clearfix:after {
+    content: " ";
+    display: table;
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+.clearfix {
+    *zoom: 1;
+}
+
+/* ==========================================================================
+   Print styles
+   ========================================================================== */
+
+@media print {
+    * {
+        background: transparent !important;
+        color: #000 !important;
+        box-shadow: none !important;
+        text-shadow: none !important;
+    }
+
+    a,
+    a:visited {
+        text-decoration: underline;
+    }
+
+    a[href]:after {
+        content: " (" attr(href) ")";
+    }
+
+    abbr[title]:after {
+        content: " (" attr(title) ")";
+    }
+
+    .ir a:after,
+    a[href^="javascript:"]:after,
+    a[href^="#"]:after {
+        content: "";
+    }
+
+    pre,
+    blockquote {
+        border: 1px solid #999;
+        page-break-inside: avoid;
+    }
+
+    thead {
+        display: table-header-group;
+    }
+
+    tr,
+    img {
+        page-break-inside: avoid;
+    }
+
+    img {
+        max-width: 100% !important;
+    }
+
+    @page {
+        margin: 0.5cm;
+    }
+
+    p,
+    h2,
+    h3 {
+        orphans: 3;
+        widows: 3;
+    }
+
+    h2,
+    h3 {
+        page-break-after: avoid;
+    }
+}

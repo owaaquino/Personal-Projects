@@ -1,0 +1,31 @@
+/*=========================
+	HEADINGS
+========================*/
+
+header {
+  height: 500px;
+  text-align: center;
+  float: left;
+  margin-bottom: 50px;
+  padding: 5px 0 0 0;
+  width: 100%;
+  background-image: url(../img/_heading/bg_landingPage.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#logo_owa img{
+	display: block;
+	margin: 10% auto 30px;
+	max-width: 198px;
+}
+
+header h1 {
+	color: #bdbab5;
+	font-family: $champagne_normal;
+	text-transform: lowercase;
+	font-weight: 200;
+	font-size: 3.5em;
+	margin: 0;
+	padding: 0;
+}

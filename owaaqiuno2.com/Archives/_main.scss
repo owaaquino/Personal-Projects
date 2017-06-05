@@ -1,0 +1,351 @@
+@font-face{
+    font-family: 'champagne';
+    src: url('../font/Champagne & Limousines.ttf');
+}
+
+@font-face{
+    font-family: 'champagne_bold';
+    src: url('../font/Champagne & Limousines Bold.ttf');
+}
+
+/*=========================
+	GENERAL
+========================*/
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	font-family: "champagne_bold", sans-serif;	
+	background-color: #fff;
+	line-height: 1.5;
+	font-size: 1em;
+}
+
+img {
+	max-width: 100%;
+	margin: 0 auto;
+	display: block;
+}
+
+a {
+	text-decoration: none;
+}
+
+p {
+	color: #bdbab5;
+}
+
+/*=========================
+	HEADINGS
+========================*/
+
+header {
+  height: 500px;
+  text-align: center;
+  float: left;
+  margin: 0;
+  padding: 5px 0 0 0;
+  width: 100%;
+  background-image: url(../img/_heading/bg_landingPage.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#logo_owa img{
+	display: block;
+	margin: 10% auto 30px;
+	max-width: 198px;
+}
+
+header h1 {
+	color: #bdbab5;
+	font-family: "champagne", sans-serif;
+	text-transform: lowercase;
+	font-weight: 200;
+	font-size: 3.5em;
+	margin: 0;
+	padding: 0;
+}
+
+
+
+/*=========================
+	NAVIGATION
+========================*/
+nav {
+	text-align: center;
+}
+
+nav ul {
+	margin: 0;
+	padding: 0;
+}
+
+nav li{
+	display: inline-block;
+	border-radius: 10px;
+	padding: 5px 2.5% 5px;
+	margin: 0 .5%;
+	text-transform: uppercase;
+	background-color: #272728;
+}
+
+nav li a {
+	color: #ccced0;
+}
+
+.selected {
+	background-color: #a2a4a7;
+}
+
+.selected a {
+	color: #272728;
+}
+
+nav a:hover {
+	color: #272728;
+}
+
+nav li:hover {
+	background-color: #a2a4a7;
+}
+
+
+/*=========================
+	SERVICES
+========================*/
+
+#services {
+	background-color: #fff;
+	text-align: center;
+	margin-top: 0;
+}
+
+#services h1 {
+	margin-top: 0;
+}
+
+#services p {
+	color: inherit;
+}
+
+.service-category {
+	padding-top: 1em;
+	margin: 0 .5em .8em;
+}
+
+.icon {
+	position: relative;
+	max-width: 80%;
+	top: -15px;
+}
+
+.service-category h2 {
+	padding: 0;
+	margin: 0;
+
+}
+
+.service-category p {
+	text-align: justify;
+	color: #000;
+	margin: 0 auto 2em;
+	padding: 1em 1.5em 2em;
+}
+
+.service-background{
+	margin-top: -70px;
+	background-color: #e9e3e2;
+	width: 100%;
+	padding-top: 80px;
+}
+
+
+
+
+/*=========================
+	WORKS
+========================*/
+
+
+#works {
+	clear: both;
+	padding-top: 5%;
+	background-color: #fff;
+	text-align: center;
+	height: 500px;
+}
+
+#works p {
+	color: inherit;
+}
+
+/*=========================
+	CONTACTS
+========================*/
+
+#contact{
+	clear: both;
+	padding-top: 5%;
+	background-color: #fff;
+	text-align: center;
+}
+
+	#contact p {
+		color: inherit;
+	}
+
+#contact-contents{	
+	width: 70%;
+	margin: 0 auto;
+	padding: 0 5%;
+	overflow: auto;
+}
+
+#inputFields{
+	margin: 0;
+	padding: 0;
+	margin-top: 20px;
+}
+
+#inputFields > input[type*="text"]{
+	display: block;
+	margin-bottom: 20px;
+	background-color: #e9e3e2;
+	border-style: none;
+	height: 30px;
+	padding-left: 10px;
+	font-family: "champagne_bold", sans-serif;	
+	color: #7b7b7c;
+
+}
+
+#inputFields > textarea{
+	display: block;
+	height: 320px;
+	margin: 0;
+	background-color: #e9e3e2;
+	border-style: none;
+	resize: none;
+
+}
+
+#inputFields > button{
+	display: block;
+	margin-top: 25px;
+	width: 30%;
+}
+
+#aboutMe{
+
+	margin-bottom: 25px;
+}
+
+#aboutMe img{
+	max-width: 90%;
+}
+
+#aboutMe p{
+	text-align: justify;
+}
+
+#contactInfo {
+	list-style: none;
+	text-align: justify;
+	margin: 0;
+	padding: 0;
+}
+
+.row {
+	margin-top: 0;
+	padding-top: 0;
+}
+
+
+/*=========================
+	FOOTER
+========================*/
+
+footer {
+	clear: both;
+	background-color: #fff;
+	text-align: center;
+}
+
+footer p {
+
+	margin:0;
+	padding:0 ;
+}
+
+/*=========================
+	MEDIA QUERIES
+========================*/
+
+@media (min-width: 769px){
+	/*SERVICES*/
+
+	.row {
+		max-width: 70%;
+		margin: 0 auto;
+		display: flex;
+	}
+
+	.service-category {
+		flex: 1 ;
+	}
+
+}
+/*====== CONTACTS ======*/
+/*@media (min-width: 769px){
+
+	#inputFields {			
+		width:45%
+	}
+
+	#inputFields > input[type*="text"]{
+		width: 100%;
+	}
+
+	#inputFields  > textarea {
+ 		width: 100%;
+ 	}
+
+	#aboutMe{
+		width: 45%;
+	}
+
+	.col {
+		float: left;
+		padding-left: 1em;
+		padding-right: 1em;
+	}
+
+}*/
+
+/*@media (max-width: 480px){
+
+	#contact-contents{
+		width: 90%;
+	}
+
+	#inputFields {
+		width: 100%;
+		margin: 0;
+		padding: 0;
+	}
+		#inputFields > input[type*="text"]{
+			width: 100%;
+		}
+
+		#inputFields > textarea{
+			width: 100%;
+		}
+
+	#aboutMe{
+		width: 100%;
+	}
+
+}*/

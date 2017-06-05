@@ -1,0 +1,57 @@
+/* ==================
+GALLERY
+================ */
+
+#gallery-detail{
+	padding: 50px 0;
+}
+.mobile-thumb {
+
+	& img {	
+	 	max-width: 100%;
+		padding: .5em 0;
+	}
+
+	@media #{$desktop-breakpoint}{
+		display: none;
+	}
+}
+
+#desktop-gallery {	
+
+	@media #{$desktop-breakpoint}{	
+		max-width: 90%;
+		margin: 0 auto;
+		
+		display: flex;
+		flex-direction: row;
+		flex-wrap: wrap;
+		justify-content: center;
+
+	}
+
+	@media #{$mobile-breakpoint}{
+		display: none;
+	}
+}
+
+.a, .b {
+	padding: 10px;
+	display: inline-block
+
+}
+.a {
+	max-width: 30%;
+}
+
+.b {
+	max-width: 60%;
+} 
+
+.more-photo-gallery {
+
+	& img {
+	height: 250px;
+	width: 360px;
+	}
+}

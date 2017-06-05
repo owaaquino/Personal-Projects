@@ -1,0 +1,1360 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tran",
+				"translateY()"
+			],
+			[
+				"query",
+				"querySelector\t( selectors: DOMString ): Element Element"
+			],
+			[
+				"secs",
+				"selectedStyleSheetSet\t: DOMString Document"
+			],
+			[
+				"save",
+				"Save"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"quer",
+				"querySelector\t( selectors: DOMString ): Element Document"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"block",
+				"inline-block"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"getElemen",
+				"getElementById\t( elementId: DOMString ): Element Document"
+			],
+			[
+				"selec",
+				"selectedTicket"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"getElementBy",
+				"getElementsByClassName( classNames: DOMString ): HTMLCollection\tElement"
+			],
+			[
+				"vis",
+				"visibility = 'visible'\tStyle CSS"
+			],
+			[
+				"vs",
+				"visibility"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"tet",
+				"text-rendering"
+			],
+			[
+				"complete",
+				"completed-tasks"
+			],
+			[
+				"incomp",
+				"incompleteTasks"
+			],
+			[
+				"e",
+				"exitFullscreen(): void\tDocument"
+			],
+			[
+				"eventL",
+				"addEventListener( listener: EventListener ): any\tNativeScript - Module trace"
+			],
+			[
+				"inserT",
+				"insertBefore\t.insertBefore()"
+			],
+			[
+				"backgrod-",
+				"background-color"
+			],
+			[
+				"appenD",
+				"appendChild( node: Node ): Node\tNode"
+			],
+			[
+				"querly",
+				"querySelector( selectors: DOMString ): Element\tDocument"
+			],
+			[
+				"newIt",
+				"newItemBtn"
+			],
+			[
+				"appn",
+				"appendChild( node: Node ): Node\tNode"
+			],
+			[
+				"createE",
+				"createElement( localName: DOMString ): Element\tDocument"
+			],
+			[
+				"toggl",
+				"toggleButton"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"raio",
+				"radioImg1"
+			],
+			[
+				"else",
+				"else if()"
+			],
+			[
+				"getEleme",
+				"getElementsByTagName( localName: DOMString ): HTMLCollection\tDocument"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"ke",
+				"font-kerning"
+			],
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"spa",
+				"space-between"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"edit",
+				"editBtn"
+			],
+			[
+				"disable",
+				"disableCheckbox"
+			],
+			[
+				"change",
+				"changeButtons"
+			],
+			[
+				"can",
+				"cancelAction"
+			],
+			[
+				"cancel",
+				"cancelBtn"
+			],
+			[
+				"editMod",
+				"editModeClass"
+			],
+			[
+				"class",
+				"classList"
+			],
+			[
+				"comp",
+				"completedTask"
+			],
+			[
+				"bind",
+				"bindTaskEvents"
+			],
+			[
+				"chec",
+				"checkItem"
+			],
+			[
+				"comple",
+				"completeBox"
+			],
+			[
+				"check",
+				"checkbox"
+			],
+			[
+				"console",
+				"console.log()"
+			],
+			[
+				"getElement",
+				"getElementsByClassName( classNames: DOMString ): HTMLCollection\tDocument"
+			],
+			[
+				"first",
+				"firstChild: Node\tNode"
+			],
+			[
+				"prepe",
+				"prependTo\t.prependTo()"
+			],
+			[
+				"clas",
+				"className: DOMString\tElement"
+			],
+			[
+				"conta",
+				"containsClass"
+			],
+			[
+				"parent",
+				"parentNode"
+			],
+			[
+				"inner",
+				"innerText"
+			],
+			[
+				"che",
+				"checBox"
+			],
+			[
+				"pare",
+				"parentNode"
+			],
+			[
+				"taskIn",
+				"tasksIncomplete"
+			],
+			[
+				"task",
+				"taskCompleted"
+			],
+			[
+				"bin",
+				"bindTaskEvents"
+			],
+			[
+				"appen",
+				"appendChild"
+			],
+			[
+				"com",
+				"completedTasksHolder"
+			],
+			[
+				"appne",
+				"appendChild"
+			],
+			[
+				"incom",
+				"incompletTasksHolder"
+			],
+			[
+				"list",
+				"listItem"
+			],
+			[
+				"inc",
+				"incompletTasksHolder"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"user",
+				"userNameValid"
+			],
+			[
+				"style-",
+				"list-style-type"
+			],
+			[
+				"soc",
+				"socialMedia"
+			],
+			[
+				"fa",
+				"Facebook"
+			],
+			[
+				"socia",
+				"socialSite"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"studne",
+				"students"
+			],
+			[
+				"stud",
+				"studentInfo"
+			],
+			[
+				"sear",
+				"searchStudent"
+			],
+			[
+				"st",
+				"studentInfo"
+			],
+			[
+				"f",
+				"figure\tTag"
+			],
+			[
+				"tri",
+				"triangleSide"
+			],
+			[
+				"tr",
+				"triangleSide"
+			],
+			[
+				"q",
+				"questionsToAnswer"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"coor",
+				"correctQuestions"
+			],
+			[
+				"co",
+				"correctQuestions"
+			],
+			[
+				"backgorund",
+				"background-image"
+			],
+			[
+				"bloc",
+				"inline-block"
+			],
+			[
+				"n1",
+				"num1"
+			],
+			[
+				"rando",
+				"randomRGB"
+			],
+			[
+				"rad",
+				"randomRGB"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"corre",
+				"correctAnswer"
+			],
+			[
+				"random",
+				"randomNumber"
+			],
+			[
+				"ran",
+				"randomNumber"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"trans",
+				"transform"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"maxi",
+				"max-height"
+			],
+			[
+				"input",
+				"inputFields"
+			],
+			[
+				"na",
+				"name"
+			],
+			[
+				"service-a",
+				"service-background"
+			],
+			[
+				"blo",
+				"inline-block"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"list-sty",
+				"list-style-type"
+			],
+			[
+				"list-st",
+				"list-style-type"
+			],
+			[
+				"arti",
+				"article-new-post"
+			],
+			[
+				"backgron",
+				"background-color"
+			],
+			[
+				"backgor",
+				"background-color"
+			],
+			[
+				"il",
+				"inline-block"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"b",
+				"inline-block"
+			],
+			[
+				"size",
+				"font-size"
+			],
+			[
+				"alig",
+				"vertical-align"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"fu",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/xampp/htdocs/training.com/30Days Javascript/05 - Flex Panel Gallery/index-START.html",
+			"settings":
+			{
+				"buffer_size": 3534,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/training.com/30Days Javascript/04 - Array Cardio Day 1/index-START.html",
+			"settings":
+			{
+				"buffer_size": 4620,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/Joshua/Desktop/Node/practice_1/app.js",
+			"settings":
+			{
+				"buffer_size": 1443,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "pacak",
+		"selected_items":
+		[
+			[
+				"pacak",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"bran",
+				"git: branch"
+			],
+			[
+				"bran\t",
+				"git: branch"
+			],
+			[
+				"stat",
+				"git: status"
+			],
+			[
+				"log",
+				"git: log"
+			],
+			[
+				"branch",
+				"git: branch"
+			],
+			[
+				"push",
+				"git: push to existing branch"
+			],
+			[
+				"comm",
+				"git: commit"
+			],
+			[
+				"branc",
+				"git: branch"
+			],
+			[
+				"pus",
+				"git: push"
+			],
+			[
+				"pull",
+				"github: create pull request"
+			],
+			[
+				"remote",
+				"git: remote add"
+			],
+			[
+				"status",
+				"git: status"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package ",
+				"Package Control: Remove Package"
+			],
+			[
+				"package insta",
+				"Package Control: Install Package"
+			],
+			[
+				"g",
+				"Git: Status"
+			],
+			[
+				"git: rem",
+				"Git: Track Remote Branch"
+			],
+			[
+				"git",
+				"Git: Pull"
+			],
+			[
+				"git: add",
+				"Git: Add Current File"
+			],
+			[
+				"pack",
+				"Package Control: Remove Repository"
+			],
+			[
+				"Git:",
+				"Git: Init"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"packakge",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 370.0
+	},
+	"console":
+	{
+		"height": 118.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/training.com/30Days Javascript/04 - Array Cardio Day 1",
+		"/C/Users/Joshua/Desktop/Node"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/training.com/30Days Javascript/04 - Array Cardio Day 1/index-START.html",
+		"/C/xampp/htdocs/training.com/30Days Javascript/03 - CSS Variables/index-START.html",
+		"/C/xampp/htdocs/training.com/Practice/javascript/Practice 12 - Digi Clock/index.html",
+		"/C/xampp/htdocs/training.com/30Days Javascript/02 - JS and CSS Clock/index-START.html",
+		"/C/xampp/htdocs/training.com/Practice/javascript/Practice 11 - Playing with keys and function/index.html",
+		"/C/xampp/htdocs/training.com/Practice/jquery/Practice 3 - To Do list/index.html",
+		"/C/xampp/htdocs/training.com/Practice/jquery/Practice 3 - To Do list/style.css",
+		"/C/xampp/htdocs/training.com/Practice/jquery/Practice 3 - To Do list/app.js",
+		"/C/xampp/htdocs/training.com/30Days Javascript/02 - JS and CSS Clock/index-FINISHED.html",
+		"/C/xampp/htdocs/training.com/Practice/javascript/Practice 11 - Playing with keys and function/style.css",
+		"/C/xampp/htdocs/training.com/30Days Javascript/01 - JavaScript Drum Kit/style.css",
+		"/C/xampp/htdocs/training.com/30Days Javascript/01 - JavaScript Drum Kit/app.js",
+		"/C/xampp/htdocs/training.com/30Days Javascript/01 - JavaScript Drum Kit/index-FINISHED.html",
+		"/C/xampp/htdocs/training.com/30Days Javascript/01 - JavaScript Drum Kit/index-START.html",
+		"/C/Users/Joshua/AppData/Roaming/Sublime Text 3/Packages/User/ColorHighlighter.sublime-settings",
+		"/C/xampp/htdocs/training.com/Practice/javascript/Practice 10 - Inputs and Outputs/app.js",
+		"/C/xampp/htdocs/training.com/Practice/javascript/Practice 10 - Inputs and Outputs/index.html",
+		"/C/xampp/htdocs/training.com/Weekly Challenge/FrontEnd Daily Challenge/Day 8 - Error 404/style.css",
+		"/C/xampp/htdocs/training.com/Weekly Challenge/FrontEnd Daily Challenge/Day 8 - Error 404/index.html",
+		"/C/xampp/htdocs/training.com/Weekly Challenge/FrontEnd Daily Challenge/Day 4 - Calculator App/app.js",
+		"/C/xampp/htdocs/training.com/Weekly Challenge/FrontEnd Daily Challenge/Day 7 - Setting/style.css",
+		"/C/xampp/htdocs/training.com/Weekly Challenge/FrontEnd Daily Challenge/Day 7 - Setting/app.js",
+		"/C/xampp/htdocs/training.com/Weekly Challenge/FrontEnd Daily Challenge/Day 7 - Setting/index.html",
+		"/C/xampp/htdocs/training.com/Weekly Challenge/FrontEnd Daily Challenge/Day 4 - Calculator App/style.css",
+		"/C/xampp/htdocs/training.com/Weekly Challenge/FrontEnd Daily Challenge/Day 4 - Calculator App/index.html",
+		"/C/xampp/htdocs/training.com/Weekly Challenge/FrontEnd Daily Challenge/Day 6 - Profile Page/index.html",
+		"/C/xampp/htdocs/training.com/Weekly Challenge/FrontEnd Daily Challenge/Day 6 - Profile Page/style.css",
+		"/C/xampp/htdocs/training.com/Weekly Challenge/FrontEnd Daily Challenge/Day 5 - App Icon/style.css",
+		"/C/xampp/htdocs/training.com/Weekly Challenge/FrontEnd Daily Challenge/Day 5 - App Icon/index.html",
+		"/C/xampp/htdocs/training.com/Weekly Challenge/FrontEnd Daily Challenge/Day 3 - Landing Page/style.css",
+		"/C/xampp/htdocs/training.com/Weekly Challenge/FrontEnd Daily Challenge/Day 3 - Landing Page/app.js",
+		"/C/xampp/htdocs/training.com/Weekly Challenge/FrontEnd Daily Challenge/Day 3 - Landing Page/index.html",
+		"/C/xampp/htdocs/training.com/Weekly Challenge/FrontEnd Daily Challenge/Day 1 - Login Page/style.css",
+		"/C/xampp/htdocs/training.com/Weekly Challenge/FrontEnd Daily Challenge/Day 1 - Login Page/index.html",
+		"/C/xampp/htdocs/training.com/Weekly Challenge/FrontEnd Daily Challenge/Day 2 - Checkout modal/style.css",
+		"/C/xampp/htdocs/training.com/Weekly Challenge/FrontEnd Daily Challenge/Day 2 - Checkout modal/index.html",
+		"/C/xampp/htdocs/training.com/Weekly Challenge/FrontEnd Daily Challenge/Day 1 - Login Page/app.js",
+		"/C/xampp/htdocs/training.com/Weekly Challenge/March - Challenges/Movie/app.js",
+		"/C/xampp/htdocs/training.com/Weekly Challenge/March - Challenges/Movie/movies.json",
+		"/C/xampp/htdocs/training.com/Weekly Challenge/March - Challenges/Movie/index.html",
+		"/C/xampp/htdocs/training.com/Weekly Challenge/March - Challenges/Treehouse - To Do List/index.html",
+		"/C/xampp/htdocs/training.com/Weekly Challenge/March - Challenges/Treehouse - To Do List/js/app.js",
+		"/C/xampp/htdocs/training.com/Weekly Challenge/Feb - Challenges/RSVP App - Treehouse Exercises/app.js",
+		"/C/xampp/htdocs/training.com/Practice/javascript/Practice 9 - toggles/index.html",
+		"/C/xampp/htdocs/training.com/Practice/javascript/Practice 9 - toggles/app.js",
+		"/C/xampp/htdocs/training.com/Practice/javascript/Practice 9 - toggles/style.css",
+		"/C/xampp/htdocs/training.com/Weekly Challenge/March - Challenges/Movie/style.css",
+		"/C/xampp/htdocs/training.com/Weekly Challenge/March - Challenges/Movie/movies.js",
+		"/C/xampp/htdocs/training.com/Weekly Challenge/March - Challenges/Movie/images/logo_office.svg",
+		"/C/xampp/htdocs/training.com/Weekly Challenge/Feb - Challenges/RSVP App - Treehouse Exercises/style.css",
+		"/C/xampp/htdocs/training.com/Practice/mono-chormatic.com/index.html",
+		"/C/xampp/htdocs/training.com/Practice/mono-chormatic.com/scss/application.scss",
+		"/C/xampp/htdocs/training.com/Practice/javascript/Challenge 4 - Loops, Arrays, Object/script.js",
+		"/C/xampp/htdocs/training.com/Weekly Challenge/March - Challenges/RocketLand/index.html",
+		"/C/xampp/htdocs/training.com/Practice/javascript/Challenge 4 - Loops, Arrays, Object/data.js",
+		"/C/xampp/htdocs/training.com/Weekly Challenge/March - Challenges/RocketLand/style.css",
+		"/C/xampp/htdocs/training.com/Practice/javascript/Challenge 4 - Loops, Arrays, Object/index.html",
+		"/C/xampp/htdocs/training.com/Practice/javascript/Challenge 1 - Conditions/script.js",
+		"/C/xampp/htdocs/training.com/Weekly Challenge/March - Challenges/Treehouse - To Do List/css/style.css",
+		"/C/xampp/htdocs/training.com/Weekly Challenge/Feb - Challenges/DOM 2/index.html",
+		"/C/xampp/htdocs/training.com/Weekly Challenge/Feb - Challenges/DOM 2/script.js",
+		"/C/xampp/htdocs/training.com/Weekly Challenge/Feb - Challenges/RSVP App - Treehouse Exercises/index.html",
+		"/C/xampp/htdocs/training.com/Weekly Challenge/Jan Week 1/app.js",
+		"/C/xampp/htdocs/training.com/Weekly Challenge/Jan Week 1/style.css",
+		"/C/xampp/htdocs/training.com/Weekly Challenge/Jan Week 1/index.html",
+		"/C/xampp/htdocs/training.com/Weekly Challenge/Feb - Challenges/DOM 2/style.css",
+		"/C/xampp/htdocs/training.com/Weekly Challenge/Feb - Challenges/DOM/index.html",
+		"/C/xampp/htdocs/training.com/Weekly Challenge/Feb - Challenges/DOM/style.css",
+		"/C/xampp/htdocs/training.com/Weekly Challenge/Feb - Challenges/DOM/app.js",
+		"/C/xampp/htdocs/training.com/Practice/jquery/Practice 2 - append multiple elements/script.js",
+		"/C/xampp/htdocs/training.com/Practice/jquery/Practice 2 - append multiple elements/index.html",
+		"/C/xampp/htdocs/training.com/Practice/jquery/Practice 2 - append multiple elements/jquery/jquery.js",
+		"/C/xampp/htdocs/training.com/Practice/kamote.com/style.css",
+		"/C/xampp/htdocs/training.com/Practice/kamote.com/receipt.html",
+		"/C/xampp/htdocs/training.com/Practice/cheatsheet/flexbox-3-column/index.html",
+		"/C/xampp/htdocs/training.com/Practice/cheatsheet/flexbox-3-column/main.css",
+		"/C/xampp/htdocs/training.com/Practice/owaaqiuno2.com/css/application.css",
+		"/C/xampp/htdocs/training.com/Practice/javascript/Practice 8 - Calculator/script.js",
+		"/C/xampp/htdocs/training.com/Practice/javascript/Practice 8 - Calculator/style.css",
+		"/C/xampp/htdocs/training.com/Practice/javascript/Practice 8 - Calculator/index.html",
+		"/C/xampp/htdocs/training.com/Practice/javascript/Practice 7 - To Do List/index.html",
+		"/C/xampp/htdocs/training.com/Practice/javascript/Practice 7 - To Do List/style.css",
+		"/C/xampp/htdocs/training.com/Practice/javascript/Practice 7 - To Do List/script.js",
+		"/C/xampp/htdocs/training.com/Practice/javascript/Treehouse - To Do List/js/app.js",
+		"/C/Users/Joshua/AppData/Roaming/Sublime Text 3/Packages/Git/Git.sublime-settings",
+		"/C/Users/Joshua/AppData/Roaming/Sublime Text 3/Packages/User/Git.sublime-settings",
+		"/C/xampp/htdocs/training.com/Practice/javascript/Practice 2 - function and condition/script.js",
+		"/C/xampp/htdocs/training.com/Practice/javascript/Treehouse - To Do List/css/style.css",
+		"/C/Users/Joshua/AppData/Roaming/Sublime Text 3/Packages/JavaScript Completions/javascript_completions/JavaScript-Completions.sublime-settings",
+		"/C/Users/Joshua/AppData/Roaming/Sublime Text 3/Packages/User/JavaScript-Completions.sublime-settings",
+		"/C/Users/Joshua/AppData/Roaming/Sublime Text 3/Packages/JavaScript Completions/javascript_completions/Default (Windows)_disabled.sublime-keymap",
+		"/C/xampp/htdocs/training.com/Practice/jquery/Challenge 1 - Forms/script.js",
+		"/C/xampp/htdocs/training.com/Practice/jquery/Challenge 1 - Forms/style.css",
+		"/C/xampp/htdocs/training.com/Practice/jquery/Challenge 1 - Forms/index.html",
+		"/C/xampp/htdocs/training.com/Practice/jquery/Practice 2 - append multiple elements/style.css",
+		"/C/xampp/htdocs/training.com/Practice/javascript/Treehouse - To Do List/index.html",
+		"/C/xampp/htdocs/training.com/Practice/jquery/Practice 1 - show and hide/script.js",
+		"/C/xampp/htdocs/training.com/Practice/javascript/Challenge 3 - Loops and Arrays/script.js",
+		"/C/xampp/htdocs/training.com/Practice/javascript/Practice 3 - Loops (For)/script.js",
+		"/C/xampp/htdocs/training.com/Practice/mono-chormatic.com/css/application.css",
+		"/C/xampp/htdocs/training.com/Practice/mono-chormatic.com/scripts/script.js",
+		"/C/xampp/htdocs/training.com/Practice/mono-chormatic.com/script/script",
+		"/C/xampp/htdocs/training.com/Practice/jquery/Practice 1 - show and hide/style.css",
+		"/C/xampp/htdocs/training.com/Practice/jquery/Practice 1 - show and hide/index.html",
+		"/C/xampp/htdocs/training.com/Practice/jquery/Practice 1 - show and hide/img/cart.svg",
+		"/C/xampp/htdocs/training.com/Practice/javascript/Practice 6 - Objects 2/index.html",
+		"/C/xampp/htdocs/training.com/Practice/javascript/Practice 6 - Objects 2/script.js",
+		"/C/xampp/htdocs/training.com/Practice/javascript/Practice 6 - Objects 2/book_list.js",
+		"/C/xampp/htdocs/training.com/Practice/javascript/Practice 5 - Objects/index.html",
+		"/C/xampp/htdocs/training.com/Practice/javascript/Practice 5 - Objects/script.js",
+		"/C/Users/Joshua/Downloads/Treehouse - stuffs/Front-end/JavaScript_Loops_Arrays_Objects/Section_3_Objects/challenge03_solution/js/student_report.js",
+		"/C/Users/Joshua/Downloads/Treehouse - stuffs/Front-end/JavaScript_Loops_Arrays_Objects/Section_3_Objects/challenge03_solution/index.html",
+		"/C/Users/Joshua/Downloads/Treehouse - stuffs/Front-end/JavaScript_Loops_Arrays_Objects/Section_3_Objects/challenge03_solution/js/students.js",
+		"/C/xampp/htdocs/training.com/Practice/javascript/Challenge 3 - Loops and Arrays/index.html",
+		"/C/xampp/htdocs/training.com/Practice/javascript/Challenge 2/script.js",
+		"/C/xampp/htdocs/training.com/Practice/javascript/Challenge 3/script.js",
+		"/C/xampp/htdocs/training.com/Practice/mono-chormatic.com/scss/layout/_gallery.scss",
+		"/C/xampp/htdocs/training.com/Practice/mono-chormatic.com/photo-gallery.html",
+		"/C/xampp/htdocs/training.com/Practice/mono-chormatic.com/scss/base/_base.scss",
+		"/C/xampp/htdocs/training.com/Practice/mono-chormatic.com/scss/components/_navigation.scss",
+		"/C/xampp/htdocs/training.com/Practice/javascript/Practice 3/script.js",
+		"/C/xampp/htdocs/training.com/Practice/javascript/Practice 3/index.html",
+		"/C/xampp/htdocs/training.com/Practice/javascript/Practice 4 - Loops/index.html",
+		"/C/xampp/htdocs/training.com/Practice/javascript/Practice 4 - Loops/script.js",
+		"/C/xampp/htdocs/training.com/Practice/javascript/Challenge 3/index.html",
+		"/C/xampp/htdocs/training.com/Practice/mono-chormatic.com/scss/components/_header.scss",
+		"/C/xampp/htdocs/training.com/Practice/mono-chormatic.com/img/svg/logo-eye.svg",
+		"/C/xampp/htdocs/training.com/Practice/mono-chormatic.com/scss/base/_mixins.scss"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:\\xampp\\htdocs\\training.com\\Practice\\jquery\\Practice 2 - append multiple elements",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Glenn",
+			"Beck",
+			"Becker",
+			"Becket",
+			"');\n",
+			"allList",
+			"relative",
+			"/*=========================\n",
+			"editMode",
+			"checkBox",
+			");\n",
+			"this",
+			");\n",
+			"\n\tname: steal like an artist\n\tauthor: Austin Kleon \n},",
+			"output",
+			">';\n",
+			"Objects",
+			"class='portrait'",
+			"class='landscape'",
+			"';",
+			";",
+			"scss",
+			"2em",
+			";\n",
+			"row",
+			"\n\tdisplay: inline-block;",
+			".col {\n\t\tmax-width: 50%;\n\t\tdisplay: inline-block;\n\t\tvertical-align: top;\n\t}",
+			"\">\n",
+			"300px",
+			"=\"\">\n",
+			"#about-main-wrapper",
+			">\n",
+			"=\"\"></",
+			"}\n",
+			".profile img{\n            }",
+			"}\n",
+			"\";\n",
+			");\n",
+			"<aside class=\"menu-links\">\n                    </aside>",
+			"{}\n",
+			"26292e",
+			"jpeg",
+			"></",
+			"3000",
+			"inner-wrapper",
+			"3000",
+			">\n",
+			"\">\n",
+			"5px",
+			"New Folder",
+			">\n",
+			"jpg",
+			"7f7f7f",
+			"sample link",
+			"\">\n",
+			"            <div id=\"banner\">\n",
+			"f0d8d9",
+			"grid_4",
+			">\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"  ",
+			" ",
+			"jpg",
+			"5000",
+			"container_16"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/xampp/htdocs/training.com/30Days Javascript/05 - Flex Panel Gallery/index-START.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3534,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								219,
+								219
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										2552,
+										2557
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/tag.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										213,
+										218
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/cobalt2.tmTheme",
+							"git_savvy.file_path": "C:\\xampp\\htdocs\\training.com\\30Days Javascript\\05 - Flex Panel Gallery\\index-START.html",
+							"git_savvy.repo_path": "C:\\xampp\\htdocs\\training.com\\30Days Javascript",
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 2023.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/xampp/htdocs/training.com/30Days Javascript/04 - Array Cardio Day 1/index-START.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4620,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4590,
+								4590
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"git_savvy.file_path": "C:\\xampp\\htdocs\\training.com\\30Days Javascript\\04 - Array Cardio Day 1\\index-START.html",
+							"git_savvy.repo_path": "C:\\xampp\\htdocs\\training.com\\30Days Javascript",
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 510.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/Joshua/Desktop/Node/practice_1/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1443,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1443,
+								1443
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content"
+							],
+							"git_savvy.file_path": "C:\\Users\\Joshua\\Desktop\\Node\\practice_1\\app.js",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 51.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.GitSavvy":
+	{
+		"height": 88.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 88.0
+	},
+	"output.show_commit_info":
+	{
+		"height": 88.0
+	},
+	"pinned_build_system": "",
+	"project": "owaaquino-portfolio-website.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 255.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 1
+	}
+}

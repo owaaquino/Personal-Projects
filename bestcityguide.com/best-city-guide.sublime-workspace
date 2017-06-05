@@ -1,0 +1,549 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"main",
+				"main-header"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"input",
+				"inputFields"
+			],
+			[
+				"na",
+				"name"
+			],
+			[
+				"service-a",
+				"service-background"
+			],
+			[
+				"blo",
+				"inline-block"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"list-sty",
+				"list-style-type"
+			],
+			[
+				"list-st",
+				"list-style-type"
+			],
+			[
+				"arti",
+				"article-new-post"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"backgron",
+				"background-color"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"backgor",
+				"background-color"
+			],
+			[
+				"il",
+				"inline-block"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"b",
+				"inline-block"
+			],
+			[
+				"size",
+				"font-size"
+			],
+			[
+				"alig",
+				"vertical-align"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"mari",
+				"margin-bottom"
+			],
+			[
+				"cateo",
+				"category_bg"
+			],
+			[
+				"fot",
+				"font-size"
+			],
+			[
+				"bacgo",
+				"background-color"
+			],
+			[
+				"backgo",
+				"background-size"
+			],
+			[
+				"spa",
+				"letter-spacing"
+			],
+			[
+				"prfl",
+				"prfle_desc"
+			],
+			[
+				"produ",
+				"product_amt"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"siz",
+				"font-size"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"left",
+				"left-thumbnails"
+			],
+			[
+				"auth",
+				"author_contact"
+			],
+			[
+				"paddint",
+				"padding-bottom"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"con",
+				"contact-info"
+			],
+			[
+				"padding-",
+				"padding-top"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"padding",
+				"padding-right"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "start/index.html",
+			"settings":
+			{
+				"buffer_size": 2951,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "start/css/style.css",
+			"settings":
+			{
+				"buffer_size": 1874,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 311.0,
+		"selected_items":
+		[
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 118.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/training.com/Exam/4-css-layout-project/1-introducing-the-project/start/css/style.css",
+		"/C/Users/Joshua/Downloads/4-column-layout-challenge/start/css/style.css",
+		"/C/xampp/htdocs/training.com/Practice/owaaqiuno2.com/contacts.html",
+		"/C/xampp/htdocs/training.com/Practice/owaaquino.com/css/main.css",
+		"/C/xampp/htdocs/training.com/Practice/owaaquino.com/index.html",
+		"/C/xampp/htdocs/training.com/Practice/blog.com/css/main.css",
+		"/C/xampp/htdocs/training.com/Practice/blog.com/index.html",
+		"/C/xampp/htdocs/training.com/Practice/blog.com/articles.html",
+		"/C/xampp/htdocs/training.com/Practice/blog.com/about.html",
+		"/C/xampp/htdocs/training.com/WebDev Tutorial/Day1_Assignment/css/style.css",
+		"/C/xampp/htdocs/training.com/WebDev Tutorial/Day1_Assignment/index.html",
+		"/C/xampp/htdocs/training.com/Practice/blog.com/js/main.js",
+		"/C/xampp/htdocs/training.com/WebDev Tutorial/Day4/responsive/css/media.css",
+		"/C/xampp/htdocs/training.com/Practice/owaaquino.com/css/media.css",
+		"/C/xampp/htdocs/training.com/WebDev Tutorial/Day4/responsive/index.html",
+		"/C/xampp/htdocs/training.com/wp_one/wp-content/themes/owa.aquino/functions.php",
+		"/C/xampp/htdocs/training.com/wp_one/wp-content/themes/owa.aquino/footer.php",
+		"/C/xampp/htdocs/training.com/wp_one/wp-content/themes/owa.aquino/header.php",
+		"/C/xampp/htdocs/training.com/wp_one/wp-content/themes/owa.aquino/index.php",
+		"/C/xampp/htdocs/training.com/wp_one/wp-content/themes/owa.aquino/search.php",
+		"/C/xampp/htdocs/training.com/wp_one/wp-content/themes/owa.aquino/sidebar.php",
+		"/C/xampp/htdocs/training.com/wp_one/wp-content/themes/owa.aquino/page.php",
+		"/C/xampp/htdocs/training.com/wp_one/wp-content/themes/owa.aquino/single.php",
+		"/C/xampp/htdocs/training.com/wp_one/wp-content/themes/owa.aquino/style.css",
+		"/C/xampp/htdocs/training.com/wp_one/wp-content/themes/owa.aquino/snippets",
+		"/C/Users/Joshua/Desktop/owa.aquino/style.css",
+		"/C/Users/Joshua/Desktop/owa.aquino/single.php",
+		"/C/Users/Joshua/Desktop/owa.aquino/sidebar.php",
+		"/C/Users/Joshua/Desktop/owa.aquino/search.php",
+		"/C/Users/Joshua/Desktop/owa.aquino/page.php",
+		"/C/Users/Joshua/Desktop/owa.aquino/index.php",
+		"/C/Users/Joshua/Desktop/owa.aquino/functions.php",
+		"/C/Users/Joshua/Desktop/owa.aquino/header.php",
+		"/C/Users/Joshua/Desktop/owa.aquino/footer.php",
+		"/C/Users/Joshua/Desktop/owa.aquino/css/main.css",
+		"/C/Users/Joshua/Desktop/wp_scratch/snippets",
+		"/C/Users/Joshua/Desktop/wp_scratch/page.php",
+		"/C/Users/Joshua/Desktop/wp_scratch/index.php",
+		"/C/Users/Joshua/Desktop/wp_scratch/footer.php",
+		"/C/Users/Joshua/Desktop/wp_scratch/functions.php",
+		"/C/Users/Joshua/Desktop/wp_scratch/header.php",
+		"/C/xampp/htdocs/training.com/wp_one/wp-content/themes/vantage/index.php",
+		"/C/xampp/htdocs/training.com/wp_one/wp-content/themes/vantage/home-panels.php",
+		"/C/Users/Joshua/Desktop/wp_scratch/sidebar.php",
+		"/C/Users/Joshua/Desktop/wp_scratch/single.php",
+		"/C/Users/Joshua/Desktop/wp_scratch/search.php",
+		"/C/Users/Joshua/Desktop/wp_scratch/style.css",
+		"/C/xampp/htdocs/training.com/Wordpress/wp-content/themes/html5blank/style.css",
+		"/C/xampp/htdocs/training.com/Wordpress/wp-content/themes/html5blank/pagination.php",
+		"/C/xampp/htdocs/training.com/Wordpress/wp-content/themes/html5blank/loop.php",
+		"/C/xampp/htdocs/training.com/Wordpress/wp-content/themes/html5blank/header.php",
+		"/C/xampp/htdocs/training.com/Wordpress/wp-content/themes/html5blank/index.php",
+		"/C/xampp/htdocs/training.com/Wordpress/wp-content/themes/html5blank/footer.php",
+		"/C/xampp/htdocs/training.com/Practice/owaaquino.com/js/main.js",
+		"/C/xampp/htdocs/training.com/Practice/brushed.com/index.html",
+		"/C/xampp/htdocs/training.com/Practice/brushed.com/css/main.css",
+		"/C/xampp/htdocs/training.com/Practice/singolo.com/index.html",
+		"/C/xampp/htdocs/training.com/Practice/singolo.com/css/main.css",
+		"/C/Users/Joshua/Desktop/Practice Templates/brushed/Brushed/Source Files/ICONS + FONT/Reference Font Icons/style.css",
+		"/C/xampp/htdocs/training.com/Practice/johnprofile.com/css/main.css",
+		"/C/xampp/htdocs/training.com/Practice/hexal.com/css/main.css",
+		"/C/xampp/htdocs/training.com/Practice/hexal.com/index.html",
+		"/C/xampp/htdocs/training.com/Exam/icomteqstore.com/css/main.css",
+		"/C/xampp/htdocs/training.com/Exam/icomteqstore.com/index.html",
+		"/C/xampp/htdocs/training.com/Practice/owaaquino.com/css/fixed_grid.css",
+		"/C/xampp/htdocs/training.com/Practice/johnprofile.com/index.html",
+		"/C/Users/Joshua/Desktop/Tutorials/jquery/Lynda. jQuery for Web Designers/Ex_Files_jQ_for_WD/Exercise Files/0207/end/form.html",
+		"/C/Users/Joshua/Desktop/Tutorials/jquery/Lynda. jQuery for Web Designers/Ex_Files_jQ_for_WD/Exercise Files/0206/start/form.html",
+		"/C/Users/Joshua/Desktop/Tutorials/jquery/Lynda. jQuery for Web Designers/Ex_Files_jQ_for_WD/Exercise Files/0203/start/build-a-bouquet.html",
+		"/C/Users/Joshua/Desktop/Tutorials/jquery/Lynda. jQuery for Web Designers/Ex_Files_jQ_for_WD/Exercise Files/0203/end/build-a-bouquet.html",
+		"/C/Users/Joshua/Desktop/Tutorials/jquery/Lynda. jQuery for Web Designers/Ex_Files_jQ_for_WD/Exercise Files/0202/start/build-a-bouquet.html",
+		"/C/Users/Joshua/Desktop/Tutorials/jquery/Lynda. jQuery for Web Designers/Ex_Files_jQ_for_WD/Exercise Files/0201/start/ready.html",
+		"/C/Users/Joshua/Desktop/Tutorials/jquery/Lynda. jQuery for Web Designers/Ex_Files_jQ_for_WD/Exercise Files/0104/jquery.min.js",
+		"/C/Users/Joshua/Desktop/Tutorials/jquery/Lynda. jQuery for Web Designers/Ex_Files_jQ_for_WD/Exercise Files/0104/install.html",
+		"/C/xampp/htdocs/training.com/WebDev Tutorial/Day5/plugins/js/main.js",
+		"/C/xampp/htdocs/training.com/WebDev Tutorial/Day5/plugins/index.html",
+		"/C/xampp/htdocs/training.com/WebDev Tutorial/Day5/plugins/js/index.html",
+		"/C/Users/Joshua/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/xampp/htdocs/training.com/Practice/singolo.com/js/main.js",
+		"/C/xampp/htdocs/training.com/WebDev Tutorial/Day5/plugins/css/main.css",
+		"/C/xampp/htdocs/training.com/Practice/singolo.com/js/bxslider/jquery.bxslider.min.js",
+		"/C/xampp/htdocs/training.com/WebDev Tutorial/Day5/plugins/js/bxslider/jquery.bxslider.min.js",
+		"/C/xampp/htdocs/training.com/WebDev Tutorial/Day5/plugins/js/bxslider/jquery.bxslider.js",
+		"/C/xampp/htdocs/training.com/WebDev Tutorial/Day5/plugins/css/normalize.css",
+		"/C/xampp/htdocs/training.com/WebDev Tutorial/Day5/day5/js/main.js",
+		"/C/xampp/htdocs/training.com/Practice/johnprofile.com/css/fixed_grid.css",
+		"/C/xampp/htdocs/training.com/Practice/singolo.com/css/fixed-grid.css",
+		"/C/xampp/htdocs/training.com/WebDev Tutorial/Day3_Assignment/bluesy.com/css/main.css",
+		"/C/xampp/htdocs/training.com/WebDev Tutorial/Day3_Assignment/bluesy.com/css/fluid_grid.css",
+		"/C/xampp/htdocs/training.com/WebDev Tutorial/Day3_Assignment/bluesy.com/index.html",
+		"/C/xampp/htdocs/training.com/Practice/singolo.com/justtest.html",
+		"/C/xampp/htdocs/training.com/WebDev Tutorial/Day4_Assignment/Jetro.com/index.html",
+		"/C/xampp/htdocs/training.com/WebDev Tutorial/Day4_Assignment/Jetro.com/css/main.css",
+		"/C/xampp/htdocs/training.com/WebDev Tutorial/Day3_Assignment/blitz.com/css/fluid_grid.css",
+		"/C/xampp/htdocs/training.com/WebDev Tutorial/Day2_Assignment/banx.com/css/fixed_grid.css",
+		"/C/Users/Joshua/Desktop/singolo.com/index.html",
+		"/C/Users/Joshua/Desktop/singolo.com/css/fixed-grid.css",
+		"/C/Users/Joshua/Desktop/test.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"figure",
+			"img",
+			"\n	display: inline-block;",
+			".col {\n		max-width: 50%;\n		display: inline-block;\n		vertical-align: top;\n	}",
+			"\">\n",
+			"300px",
+			"=\"\">\n",
+			"#about-main-wrapper",
+			">\n",
+			"=\"\"></",
+			"}\n",
+			".profile img{\n            }",
+			"}\n",
+			"\";\n",
+			");\n",
+			"<aside class=\"menu-links\">\n                    </aside>",
+			"{}\n",
+			"26292e",
+			"jpeg",
+			"></",
+			"3000",
+			"inner-wrapper",
+			"3000",
+			">\n",
+			"\">\n",
+			"5px",
+			"New Folder",
+			">\n",
+			"jpg",
+			"7f7f7f",
+			"sample link",
+			"\">\n",
+			"            <div id=\"banner\">\n",
+			"f0d8d9",
+			"grid_4",
+			">\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"jpg",
+			"5000",
+			"container_16"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "start/index.html",
+					"settings":
+					{
+						"buffer_size": 2951,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1284,
+								1284
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 153.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "start/css/style.css",
+					"settings":
+					{
+						"buffer_size": 1874,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1358,
+								1358
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 336.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 195.0,
+	"status_bar_visible": true
+}

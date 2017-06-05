@@ -1,0 +1,36 @@
+
+
+// Format the pages headings. 
+
+%page-heading{
+	padding-top: 5%;
+	background-color: #fff;
+	text-align: center;
+
+		h1 {
+			margin-top: 0;
+		}
+
+		p {
+			color: $black;
+		}	
+}
+
+// add margin-borrom of 5%
+
+%margin-bottom-5percent {
+	margin-bottom: 5%;
+}
+
+
+// a padding 
+
+%fullpadding {
+	padding: 1em 1.5em 2em;
+}
+
+// Center Div
+
+%center-things{
+	margin: 0 auto;
+}

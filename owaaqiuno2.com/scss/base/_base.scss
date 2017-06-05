@@ -1,0 +1,28 @@
+/*=========================
+	GENERAL
+========================*/
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	font-family: $champagne_bold;	
+	background-color: #fff;
+	line-height: 1.5;
+	font-size: 1em;
+}
+
+img {
+	max-width: 100%;
+	margin: 0 auto;
+	display: block;
+}
+
+a {
+	text-decoration: none;
+}
+
+p {
+	color: #bdbab5;
+}

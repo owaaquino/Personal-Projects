@@ -1,0 +1,1052 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tra",
+				"translateY()"
+			],
+			[
+				"trans",
+				"transform"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"maxi",
+				"max-height"
+			],
+			[
+				"input",
+				"inputFields"
+			],
+			[
+				"na",
+				"name"
+			],
+			[
+				"service-a",
+				"service-background"
+			],
+			[
+				"blo",
+				"inline-block"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"list-sty",
+				"list-style-type"
+			],
+			[
+				"list-st",
+				"list-style-type"
+			],
+			[
+				"arti",
+				"article-new-post"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"backgron",
+				"background-color"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"backgor",
+				"background-color"
+			],
+			[
+				"il",
+				"inline-block"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"b",
+				"inline-block"
+			],
+			[
+				"size",
+				"font-size"
+			],
+			[
+				"alig",
+				"vertical-align"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"mari",
+				"margin-bottom"
+			],
+			[
+				"cateo",
+				"category_bg"
+			],
+			[
+				"fot",
+				"font-size"
+			],
+			[
+				"bacgo",
+				"background-color"
+			],
+			[
+				"backgo",
+				"background-size"
+			],
+			[
+				"spa",
+				"letter-spacing"
+			],
+			[
+				"prfl",
+				"prfle_desc"
+			],
+			[
+				"produ",
+				"product_amt"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"siz",
+				"font-size"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"left",
+				"left-thumbnails"
+			],
+			[
+				"auth",
+				"author_contact"
+			],
+			[
+				"paddint",
+				"padding-bottom"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"con",
+				"contact-info"
+			],
+			[
+				"padding-",
+				"padding-top"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"padding",
+				"padding-right"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "\n\n\n\n\n\n/*=========================\n	NAVIGATION\n========================*/\nnav {\n	text-align: center;\n}\n\nnav ul {\n	margin: 0;\n	padding: 0;\n}\n\nnav li{\n	display: inline-block;\n	border-radius: 10px;\n	padding: 5px 2.5% 5px;\n	margin: 0 .5%;\n	text-transform: uppercase;\n	background-color: #272728;\n}\n\nnav li a {\n	color: #ccced0;\n}\n\n.selected {\n	background-color: #a2a4a7;\n}\n\n.selected a {\n	color: #272728;\n}\n\nnav a:hover {\n	color: #272728;\n}\n\nnav li:hover {\n	background-color: #a2a4a7;\n}\n\n\n/*=========================\n	SERVICES\n========================*/\n\n#services {\n	background-color: #fff;\n	text-align: center;\n	margin-top: 0;\n}\n\n#services h1 {\n	margin-top: 0;\n}\n\n#services p {\n	color: inherit;\n}\n\n.service-category {\n	padding-top: 1em;\n	margin: 0 .5em .8em;\n}\n\n.icon {\n	position: relative;\n	max-width: 80%;\n	top: -15px;\n}\n\n.service-category h2 {\n	padding: 0;\n	margin: 0;\n\n}\n\n.service-category p {\n	text-align: justify;\n	color: #000;\n	margin: 0 auto 2em;\n	padding: 1em 1.5em 2em;\n}\n\n.service-background{\n	margin-top: -70px;\n	background-color: #e9e3e2;\n	width: 100%;\n	padding-top: 80px;\n}\n\n\n\n\n/*=========================\n	WORKS\n========================*/\n\n\n#works {\n	clear: both;\n	padding-top: 5%;\n	background-color: #fff;\n	text-align: center;\n	height: 500px;\n}\n\n#works p {\n	color: inherit;\n}\n\n/*=========================\n	CONTACTS\n========================*/\n\n#contact{\n	clear: both;\n	padding-top: 5%;\n	background-color: #fff;\n	text-align: center;\n}\n\n	#contact p {\n		color: inherit;\n	}\n\n#contact-contents{	\n	width: 70%;\n	margin: 0 auto;\n	padding: 0 5%;\n	overflow: auto;\n}\n\n#inputFields{\n	margin: 0;\n	padding: 0;\n	margin-top: 20px;\n}\n\n#inputFields > input[type*=\"text\"]{\n	display: block;\n	margin-bottom: 20px;\n	background-color: #e9e3e2;\n	border-style: none;\n	height: 30px;\n	padding-left: 10px;\n	font-family: \"champagne_bold\", sans-serif;	\n	color: #7b7b7c;\n\n}\n\n#inputFields > textarea{\n	display: block;\n	height: 320px;\n	margin: 0;\n	background-color: #e9e3e2;\n	border-style: none;\n	resize: none;\n\n}\n\n#inputFields > button{\n	display: block;\n	margin-top: 25px;\n	width: 30%;\n}\n\n#aboutMe{\n\n	margin-bottom: 25px;\n}\n\n#aboutMe img{\n	max-width: 90%;\n}\n\n#aboutMe p{\n	text-align: justify;\n}\n\n#contactInfo {\n	list-style: none;\n	text-align: justify;\n	margin: 0;\n	padding: 0;\n}\n\n.row {\n	margin-top: 0;\n	padding-top: 0;\n}\n\n\n/*=========================\n	FOOTER\n========================*/\n\nfooter {\n	clear: both;\n	background-color: #fff;\n	text-align: center;\n}\n\nfooter p {\n\n	margin:0;\n	padding:0 ;\n}\n\n/*=========================\n	MEDIA QUERIES\n========================*/\n\n@media (min-width: 769px){\n	/*SERVICES*/\n\n	.row {\n		max-width: 70%;\n		margin: 0 auto;\n		display: flex;\n	}\n\n	.service-category {\n		flex: 1 ;\n	}\n\n}\n/*====== CONTACTS ======*/\n/*@media (min-width: 769px){\n\n	#inputFields {			\n		width:45%\n	}\n\n	#inputFields > input[type*=\"text\"]{\n		width: 100%;\n	}\n\n	#inputFields  > textarea {\n 		width: 100%;\n 	}\n\n	#aboutMe{\n		width: 45%;\n	}\n\n	.col {\n		float: left;\n		padding-left: 1em;\n		padding-right: 1em;\n	}\n\n}*/\n\n/*@media (max-width: 480px){\n\n	#contact-contents{\n		width: 90%;\n	}\n\n	#inputFields {\n		width: 100%;\n		margin: 0;\n		padding: 0;\n	}\n		#inputFields > input[type*=\"text\"]{\n			width: 100%;\n		}\n\n		#inputFields > textarea{\n			width: 100%;\n		}\n\n	#aboutMe{\n		width: 100%;\n	}\n\n}*/",
+			"file": "scss/_main.scss",
+			"file_size": 4684,
+			"file_write_time": 131088762332038092,
+			"settings":
+			{
+				"buffer_size": 3264,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "scss/application.scss",
+			"settings":
+			{
+				"buffer_size": 91,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "scss/components/_header.scss",
+			"settings":
+			{
+				"buffer_size": 539,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "scss/components/_index.scss",
+			"settings":
+			{
+				"buffer_size": 117,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "scss/components/_fonts.scss",
+			"settings":
+			{
+				"buffer_size": 204,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"packakge",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 118.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/training.com/Practice/owaaqiuno2.com",
+		"/C/xampp/htdocs/training.com/Practice/owaaqiuno2.com/css",
+		"/C/xampp/htdocs/training.com/Practice/owaaqiuno2.com/scss",
+		"/C/xampp/htdocs/training.com/Practice/owaaqiuno2.com/scss/base",
+		"/C/xampp/htdocs/training.com/Practice/owaaqiuno2.com/scss/components",
+		"/C/xampp/htdocs/training.com/Practice/owaaqiuno2.com/scss/normalize",
+		"/C/xampp/htdocs/training.com/Practice/cheatsheet/sticky-nav"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/training.com/Practice/owaaqiuno2.com/scss/base/_base.scss",
+		"/C/xampp/htdocs/training.com/Practice/owaaqiuno2.com/index.html",
+		"/C/xampp/htdocs/training.com/Practice/owaaqiuno2.com/scss/normalize/_index.scss",
+		"/C/xampp/htdocs/training.com/Practice/owaaqiuno2.com/scss/layout/_index.scss",
+		"/C/xampp/htdocs/training.com/Practice/owaaqiuno2.com/scss/components/_index.scss",
+		"/C/xampp/htdocs/training.com/Practice/owaaqiuno2.com/scss/base/_index.scss",
+		"/C/xampp/htdocs/training.com/Practice/owaaqiuno2.com/scss/application.scss",
+		"/C/xampp/htdocs/training.com/Practice/owaaqiuno2.com/scss/main.scss",
+		"/C/xampp/htdocs/training.com/Practice/owaaqiuno2.com/scss/normalize.scss",
+		"/C/xampp/htdocs/training.com/Practice/owaaqiuno2.com/scss/normalize/_normalize.scss",
+		"/C/xampp/htdocs/training.com/Practice/owaaqiuno2.com/scss/main.css",
+		"/C/xampp/htdocs/training.com/Practice/cheatsheet/sticky-nav/main.css",
+		"/C/xampp/htdocs/training.com/Practice/cheatsheet/sticky-nav/index.html",
+		"/C/xampp/htdocs/training.com/Exam/animation-challenge/5-animation-challenge/start/index.html",
+		"/C/xampp/htdocs/training.com/Exam/animation-challenge/5-animation-challenge/start/css/style.css",
+		"/C/xampp/htdocs/training.com/Practice/cheatsheet/flexbox-3-column/index.html",
+		"/C/xampp/htdocs/training.com/Practice/cheatsheet/flexbox-3-column/main.css",
+		"/C/xampp/htdocs/training.com/Practice/bestcityguide.com/start/index.html",
+		"/C/xampp/htdocs/training.com/Practice/bestcityguide.com/start/css/style.css",
+		"/C/xampp/htdocs/training.com/Practice/owaaqiuno2.com/css/main.css",
+		"/C/xampp/htdocs/training.com/Practice/owaaqiuno2.com/contact.html",
+		"/C/xampp/htdocs/training.com/Practice/owaaqiuno2.com/works.html",
+		"/C/xampp/htdocs/training.com/Practice/owaaqiuno2.com/owaaquino-portfolio-website.sublime-project",
+		"/C/Users/Joshua/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/Joshua/Downloads/4-column-layout-challenge/start/css/style.css",
+		"/C/xampp/htdocs/training.com/Practice/owaaqiuno2.com/contacts.html",
+		"/C/xampp/htdocs/training.com/Practice/owaaquino.com/css/main.css",
+		"/C/xampp/htdocs/training.com/Practice/owaaquino.com/index.html",
+		"/C/xampp/htdocs/training.com/Practice/blog.com/css/main.css",
+		"/C/xampp/htdocs/training.com/Practice/blog.com/index.html",
+		"/C/xampp/htdocs/training.com/Practice/blog.com/articles.html",
+		"/C/xampp/htdocs/training.com/Practice/blog.com/about.html",
+		"/C/xampp/htdocs/training.com/WebDev Tutorial/Day1_Assignment/css/style.css",
+		"/C/xampp/htdocs/training.com/WebDev Tutorial/Day1_Assignment/index.html",
+		"/C/xampp/htdocs/training.com/Practice/blog.com/js/main.js",
+		"/C/xampp/htdocs/training.com/WebDev Tutorial/Day4/responsive/css/media.css",
+		"/C/xampp/htdocs/training.com/Practice/owaaquino.com/css/media.css",
+		"/C/xampp/htdocs/training.com/WebDev Tutorial/Day4/responsive/index.html",
+		"/C/xampp/htdocs/training.com/wp_one/wp-content/themes/owa.aquino/functions.php",
+		"/C/xampp/htdocs/training.com/wp_one/wp-content/themes/owa.aquino/footer.php",
+		"/C/xampp/htdocs/training.com/wp_one/wp-content/themes/owa.aquino/header.php",
+		"/C/xampp/htdocs/training.com/wp_one/wp-content/themes/owa.aquino/index.php",
+		"/C/xampp/htdocs/training.com/wp_one/wp-content/themes/owa.aquino/search.php",
+		"/C/xampp/htdocs/training.com/wp_one/wp-content/themes/owa.aquino/sidebar.php",
+		"/C/xampp/htdocs/training.com/wp_one/wp-content/themes/owa.aquino/page.php",
+		"/C/xampp/htdocs/training.com/wp_one/wp-content/themes/owa.aquino/single.php",
+		"/C/xampp/htdocs/training.com/wp_one/wp-content/themes/owa.aquino/style.css",
+		"/C/xampp/htdocs/training.com/wp_one/wp-content/themes/owa.aquino/snippets",
+		"/C/Users/Joshua/Desktop/owa.aquino/style.css",
+		"/C/Users/Joshua/Desktop/owa.aquino/single.php",
+		"/C/Users/Joshua/Desktop/owa.aquino/sidebar.php",
+		"/C/Users/Joshua/Desktop/owa.aquino/search.php",
+		"/C/Users/Joshua/Desktop/owa.aquino/page.php",
+		"/C/Users/Joshua/Desktop/owa.aquino/index.php",
+		"/C/Users/Joshua/Desktop/owa.aquino/functions.php",
+		"/C/Users/Joshua/Desktop/owa.aquino/header.php",
+		"/C/Users/Joshua/Desktop/owa.aquino/footer.php",
+		"/C/Users/Joshua/Desktop/owa.aquino/css/main.css",
+		"/C/Users/Joshua/Desktop/wp_scratch/snippets",
+		"/C/Users/Joshua/Desktop/wp_scratch/page.php",
+		"/C/Users/Joshua/Desktop/wp_scratch/index.php",
+		"/C/Users/Joshua/Desktop/wp_scratch/footer.php",
+		"/C/Users/Joshua/Desktop/wp_scratch/functions.php",
+		"/C/Users/Joshua/Desktop/wp_scratch/header.php",
+		"/C/xampp/htdocs/training.com/wp_one/wp-content/themes/vantage/index.php",
+		"/C/xampp/htdocs/training.com/wp_one/wp-content/themes/vantage/home-panels.php",
+		"/C/Users/Joshua/Desktop/wp_scratch/sidebar.php",
+		"/C/Users/Joshua/Desktop/wp_scratch/single.php",
+		"/C/Users/Joshua/Desktop/wp_scratch/search.php",
+		"/C/Users/Joshua/Desktop/wp_scratch/style.css",
+		"/C/xampp/htdocs/training.com/Wordpress/wp-content/themes/html5blank/style.css",
+		"/C/xampp/htdocs/training.com/Wordpress/wp-content/themes/html5blank/pagination.php",
+		"/C/xampp/htdocs/training.com/Wordpress/wp-content/themes/html5blank/loop.php",
+		"/C/xampp/htdocs/training.com/Wordpress/wp-content/themes/html5blank/header.php",
+		"/C/xampp/htdocs/training.com/Wordpress/wp-content/themes/html5blank/index.php",
+		"/C/xampp/htdocs/training.com/Wordpress/wp-content/themes/html5blank/footer.php",
+		"/C/xampp/htdocs/training.com/Practice/owaaquino.com/js/main.js",
+		"/C/xampp/htdocs/training.com/Practice/brushed.com/index.html",
+		"/C/xampp/htdocs/training.com/Practice/brushed.com/css/main.css",
+		"/C/xampp/htdocs/training.com/Practice/singolo.com/index.html",
+		"/C/xampp/htdocs/training.com/Practice/singolo.com/css/main.css",
+		"/C/Users/Joshua/Desktop/Practice Templates/brushed/Brushed/Source Files/ICONS + FONT/Reference Font Icons/style.css",
+		"/C/xampp/htdocs/training.com/Practice/johnprofile.com/css/main.css",
+		"/C/xampp/htdocs/training.com/Practice/hexal.com/css/main.css",
+		"/C/xampp/htdocs/training.com/Practice/hexal.com/index.html",
+		"/C/xampp/htdocs/training.com/Exam/icomteqstore.com/css/main.css",
+		"/C/xampp/htdocs/training.com/Exam/icomteqstore.com/index.html",
+		"/C/xampp/htdocs/training.com/Practice/owaaquino.com/css/fixed_grid.css",
+		"/C/xampp/htdocs/training.com/Practice/johnprofile.com/index.html",
+		"/C/Users/Joshua/Desktop/Tutorials/jquery/Lynda. jQuery for Web Designers/Ex_Files_jQ_for_WD/Exercise Files/0207/end/form.html",
+		"/C/Users/Joshua/Desktop/Tutorials/jquery/Lynda. jQuery for Web Designers/Ex_Files_jQ_for_WD/Exercise Files/0206/start/form.html",
+		"/C/Users/Joshua/Desktop/Tutorials/jquery/Lynda. jQuery for Web Designers/Ex_Files_jQ_for_WD/Exercise Files/0203/start/build-a-bouquet.html",
+		"/C/Users/Joshua/Desktop/Tutorials/jquery/Lynda. jQuery for Web Designers/Ex_Files_jQ_for_WD/Exercise Files/0203/end/build-a-bouquet.html",
+		"/C/Users/Joshua/Desktop/Tutorials/jquery/Lynda. jQuery for Web Designers/Ex_Files_jQ_for_WD/Exercise Files/0202/start/build-a-bouquet.html",
+		"/C/Users/Joshua/Desktop/Tutorials/jquery/Lynda. jQuery for Web Designers/Ex_Files_jQ_for_WD/Exercise Files/0201/start/ready.html",
+		"/C/Users/Joshua/Desktop/Tutorials/jquery/Lynda. jQuery for Web Designers/Ex_Files_jQ_for_WD/Exercise Files/0104/jquery.min.js",
+		"/C/Users/Joshua/Desktop/Tutorials/jquery/Lynda. jQuery for Web Designers/Ex_Files_jQ_for_WD/Exercise Files/0104/install.html",
+		"/C/xampp/htdocs/training.com/WebDev Tutorial/Day5/plugins/js/main.js",
+		"/C/xampp/htdocs/training.com/WebDev Tutorial/Day5/plugins/index.html",
+		"/C/xampp/htdocs/training.com/WebDev Tutorial/Day5/plugins/js/index.html",
+		"/C/Users/Joshua/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/xampp/htdocs/training.com/Practice/singolo.com/js/main.js",
+		"/C/xampp/htdocs/training.com/WebDev Tutorial/Day5/plugins/css/main.css",
+		"/C/xampp/htdocs/training.com/Practice/singolo.com/js/bxslider/jquery.bxslider.min.js",
+		"/C/xampp/htdocs/training.com/WebDev Tutorial/Day5/plugins/js/bxslider/jquery.bxslider.min.js",
+		"/C/xampp/htdocs/training.com/WebDev Tutorial/Day5/plugins/js/bxslider/jquery.bxslider.js",
+		"/C/xampp/htdocs/training.com/WebDev Tutorial/Day5/plugins/css/normalize.css",
+		"/C/xampp/htdocs/training.com/WebDev Tutorial/Day5/day5/js/main.js",
+		"/C/xampp/htdocs/training.com/Practice/johnprofile.com/css/fixed_grid.css",
+		"/C/xampp/htdocs/training.com/Practice/singolo.com/css/fixed-grid.css",
+		"/C/xampp/htdocs/training.com/WebDev Tutorial/Day3_Assignment/bluesy.com/css/main.css",
+		"/C/xampp/htdocs/training.com/WebDev Tutorial/Day3_Assignment/bluesy.com/css/fluid_grid.css",
+		"/C/xampp/htdocs/training.com/WebDev Tutorial/Day3_Assignment/bluesy.com/index.html",
+		"/C/xampp/htdocs/training.com/Practice/singolo.com/justtest.html",
+		"/C/xampp/htdocs/training.com/WebDev Tutorial/Day4_Assignment/Jetro.com/index.html",
+		"/C/xampp/htdocs/training.com/WebDev Tutorial/Day4_Assignment/Jetro.com/css/main.css",
+		"/C/xampp/htdocs/training.com/WebDev Tutorial/Day3_Assignment/blitz.com/css/fluid_grid.css",
+		"/C/xampp/htdocs/training.com/WebDev Tutorial/Day2_Assignment/banx.com/css/fixed_grid.css",
+		"/C/Users/Joshua/Desktop/singolo.com/index.html",
+		"/C/Users/Joshua/Desktop/singolo.com/css/fixed-grid.css",
+		"/C/Users/Joshua/Desktop/test.html"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"scss",
+			"2em",
+			";\n",
+			"row",
+			"\n	display: inline-block;",
+			".col {\n		max-width: 50%;\n		display: inline-block;\n		vertical-align: top;\n	}",
+			"\">\n",
+			"300px",
+			"=\"\">\n",
+			"#about-main-wrapper",
+			">\n",
+			"=\"\"></",
+			"}\n",
+			".profile img{\n            }",
+			"}\n",
+			"\";\n",
+			");\n",
+			"<aside class=\"menu-links\">\n                    </aside>",
+			"{}\n",
+			"26292e",
+			"jpeg",
+			"></",
+			"3000",
+			"inner-wrapper",
+			"3000",
+			">\n",
+			"\">\n",
+			"5px",
+			"New Folder",
+			">\n",
+			"jpg",
+			"7f7f7f",
+			"sample link",
+			"\">\n",
+			"            <div id=\"banner\">\n",
+			"f0d8d9",
+			"grid_4",
+			">\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"jpg",
+			"5000",
+			"container_16"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "scss/_main.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3264,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2,
+								2
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "scss/application.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 91,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								89,
+								89
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "scss/components/_header.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 539,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								113,
+								113
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "scss/components/_index.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 117,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								42,
+								42
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "scss/components/_fonts.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 204,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								204,
+								204
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.460344827586,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "owaaquino-portfolio-website.sublime-project",
+	"replace":
+	{
+		"height": 38.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 1,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 176.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 1
+	}
+}

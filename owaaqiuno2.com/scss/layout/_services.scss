@@ -1,0 +1,38 @@
+
+/*=========================
+	SERVICES
+========================*/
+
+#services {
+	@extend %page-heading;
+}
+
+.service-category {
+	padding-top: 1em;
+	margin: 0 .5em .8em;
+
+		h2 {
+			padding: 0;
+			margin: 0;
+
+		}
+		p {
+			@extend %fullpadding;
+			text-align: justify;
+			color: $black;
+			margin: 0 auto 2em;
+		}
+}
+
+.icon {
+	position: relative;
+	max-width: 80%;
+	top: -15px;
+}
+
+.service-background{
+	margin-top: -70px;
+	background-color: $ebb;
+	width: 100%;
+	padding-top: 80px;
+}

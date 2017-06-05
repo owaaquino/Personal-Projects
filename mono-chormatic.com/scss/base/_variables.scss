@@ -1,0 +1,22 @@
+
+/* ===== BACKGROUNDS ===== */
+$logoImage : ("../img/svg/logo-eye.svg");
+$wallpaper : ("../img/background/halftone.png");
+
+/* ===== COLORS ===== */
+$blacksheep : #292929;
+$goldenbar : #ad974f;
+$paperwhite : #fff;
+
+/* ==== MEDIA QUERIES ==== */
+
+$mobile-breakpoint : '(max-width: 768px)';
+$desktop-breakpoint : '(min-width: 1024px)';
+
+/* ==== FONTS ==== */
+
+$cambria: 'Cambria';
+$myriadpro: 'Myriad Pro';
+
+$sansfamily: $myriadpro, Helvetica, Arial, sans-serif;
+$serfifamily: $cambria, Times, serif;

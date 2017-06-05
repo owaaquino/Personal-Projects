@@ -1,0 +1,82 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*=========================
+	MEDIA QUERIES
+========================*/
+
+@media (min-width: 769px){
+	/*SERVICES*/
+
+	.row {
+		max-width: 70%;
+		margin: 0 auto;
+		display: flex;
+	}
+
+	.service-category {
+		flex: 1 ;
+	}
+
+}
+/*====== CONTACTS ======*/
+/*@media (min-width: 769px){
+
+	#inputFields {			
+		width:45%
+	}
+
+	#inputFields > input[type*="text"]{
+		width: 100%;
+	}
+
+	#inputFields  > textarea {
+ 		width: 100%;
+ 	}
+
+	#aboutMe{
+		width: 45%;
+	}
+
+	.col {
+		float: left;
+		padding-left: 1em;
+		padding-right: 1em;
+	}
+
+}*/
+
+/*@media (max-width: 480px){
+
+	#contact-contents{
+		width: 90%;
+	}
+
+	#inputFields {
+		width: 100%;
+		margin: 0;
+		padding: 0;
+	}
+		#inputFields > input[type*="text"]{
+			width: 100%;
+		}
+
+		#inputFields > textarea{
+			width: 100%;
+		}
+
+	#aboutMe{
+		width: 100%;
+	}
+
+}*/

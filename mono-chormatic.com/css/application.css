@@ -1,0 +1,339 @@
+/* ===== BACKGROUNDS ===== */
+/* ===== COLORS ===== */
+/* ==== MEDIA QUERIES ==== */
+/* ==== FONTS ==== */
+/* ===========================
+GENERAL LAYOUTS
+==============================*/
+body {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between; }
+
+h1, h2, h3, h4, h5, h6, p, img {
+  margin: 0;
+  padding: 0; }
+
+a {
+  text-decoration: none; }
+
+#main-header,
+#main-footer {
+  background-color: #292929; }
+
+/* ========================
+LOGO 
+=========================== */
+#main-header {
+  font-family: "Cambria", Times, serif;
+  text-align: center;
+  padding: 5em 0;
+  color: #ad974f; }
+  @media (min-width: 1024px) {
+    #main-header {
+      margin: 0;
+      padding: 0;
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between; } }
+
+@media (min-width: 1024px) {
+  #logo {
+    padding: 0 1em; } }
+#logo p, #logo h5 {
+  margin: 0;
+  padding: 0; }
+#logo img {
+  width: 5em;
+  height: 5em;
+  padding: 1em 0; }
+  @media (min-width: 1024px) {
+    #logo img {
+      stroke-width: 5; } }
+@media (min-width: 1024px) {
+  #logo div {
+    text-align: justify;
+    padding: 2em .5em; } }
+#logo p {
+  font-size: 1em; }
+  @media (min-width: 1024px) {
+    #logo p {
+      font-size: 1.2em; } }
+#logo h5 {
+  font-size: large;
+  font-weight: 400;
+  letter-spacing: 2px; }
+  @media (min-width: 1024px) {
+    #logo h5 {
+      font-size: 1.5em; } }
+@media (min-width: 1024px) {
+  #logo {
+    display: flex;
+    flex-direction: row; } }
+
+/* ========================
+NAVIGATION
+========================== */
+#main-nav {
+  margin-top: 3em; }
+  #main-nav ul {
+    margin: 0;
+    padding: 0; }
+    @media (min-width: 1024px) {
+      #main-nav ul {
+        display: flex;
+        flex-direction: row; } }
+  @media (min-width: 1024px) {
+    #main-nav li {
+      padding: 0 1em; } }
+  #main-nav a {
+    text-transform: uppercase;
+    font-size: x-large;
+    color: #ad974f; }
+  #main-nav a:hover {
+    border-bottom: 1px solid #ad974f; }
+
+#gallery-nav {
+  margin: 50px 0;
+  font-family: "Myriad Pro", Helvetica, Arial, sans-serif;
+  font-weight: 100; }
+  #gallery-nav ul {
+    margin: 0;
+    padding: 5px; }
+    @media (min-width: 1024px) {
+      #gallery-nav ul {
+        display: flex;
+        flex-direction: row;
+        justify-content: center; } }
+  #gallery-nav li {
+    padding-right: 10px; }
+  #gallery-nav a {
+    color: #292929;
+    text-transform: uppercase; }
+  #gallery-nav a:hover {
+    border-bottom: 1px solid #292929; }
+
+body {
+  background: url("../img/background/halftone.png");
+  repeat: repeat; }
+
+.more-photos {
+  margin: 0;
+  padding: 1em 0; }
+
+a.more-btn {
+  color: #ad974f;
+  background-color: #292929;
+  margin: 0 auto;
+  padding: 10px 30px;
+  border-radius: 15px;
+  font-family: 'Cambria';
+  text-transform: uppercase; }
+
+/* ==================
+GALLERY
+================ */
+#gallery-detail {
+  padding: 50px 0; }
+
+.mobile-thumb img {
+  max-width: 100%;
+  padding: .5em 0; }
+@media (min-width: 1024px) {
+  .mobile-thumb {
+    display: none; } }
+
+@media (min-width: 1024px) {
+  #desktop-gallery {
+    max-width: 90%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center; } }
+@media (max-width: 768px) {
+  #desktop-gallery {
+    display: none; } }
+
+.a, .b {
+  padding: 10px;
+  display: inline-block; }
+
+.a {
+  max-width: 30%; }
+
+.b {
+  max-width: 60%; }
+
+.more-photo-gallery img {
+  height: 250px;
+  width: 360px; }
+
+/* ========================
+ABOUT
+========================= */
+@media (min-width: 1024px) {
+  #about-me {
+    background-color: #292929; } }
+
+@media (min-width: 1024px) {
+  #primary {
+    max-width: 60%;
+    margin: 0 auto;
+    padding: 30vh; } }
+#primary h2, #primary h1, #primary p {
+  margin: 0;
+  padding: 0; }
+#primary h2, #primary h1 {
+  text-transform: uppercase;
+  padding: .5em 0; }
+#primary h2, #primary p {
+  font-family: "Myriad Pro", Helvetica, Arial, sans-serif; }
+#primary img.profilepic {
+  width: 300px;
+  height: 300px;
+  border-radius: 100% 100%;
+  padding: 2.5em 0; }
+  @media (min-width: 1024px) {
+    #primary img.profilepic {
+      display: none; } }
+#primary img.display-logo {
+  height: 2.5em;
+  width: 2.5em; }
+  @media (max-width: 768px) {
+    #primary img.display-logo {
+      display: none; } }
+#primary h2 {
+  font-size: .8em;
+  font-weight: 100;
+  letter-spacing: 3px;
+  color: #ad974f; }
+  @media (min-width: 1024px) {
+    #primary h2 {
+      display: none; } }
+#primary h1 {
+  font-family: "Cambria", Times, serif;
+  font-weight: 100; }
+  @media (min-width: 1024px) {
+    #primary h1 {
+      color: #fff;
+      padding: .5em;
+      font-size: 3.5em; } }
+@media (min-width: 1024px) {
+  #primary p {
+    color: #ad974f;
+    padding: 0 1.6em; } }
+
+@media (min-width: 1024px) {
+  #secondary {
+    padding: 2em 1.5em;
+    text-align: justify;
+    background-color: #fff;
+    display: flex;
+    justify-content: space-between; } }
+#secondary img.logo-black {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  margin: 0;
+  padding: 1em; }
+  @media (min-width: 1024px) {
+    #secondary img.logo-black {
+      display: none; } }
+
+.contact-info {
+  padding: 1em 0; }
+  .contact-info p {
+    margin: 0;
+    padding: 0;
+    color: #ad974f;
+    font-family: "Myriad Pro", Helvetica, Arial, sans-serif; }
+    @media (min-width: 1024px) {
+      .contact-info p {
+        font-size: 3em; } }
+
+.social-follow {
+  margin: 0;
+  padding: 2em 0; }
+  .social-follow a {
+    margin: 0; }
+  .social-follow img {
+    width: 50px;
+    height: 50px; }
+    @media (min-width: 1024px) {
+      .social-follow img {
+        width: 80px;
+        height: 80px; } }
+
+/* ======================
+CLIENTS
+========================= */
+@media (min-width: 1024px) {
+  #clients {
+    padding: 20vh 0; } }
+#clients h1 {
+  text-transform: uppercase;
+  font-family: 'Cambria';
+  font-weight: 100;
+  font-size: 3.5em; }
+  @media (max-width: 768px) {
+    #clients h1 {
+      display: none; } }
+
+@media (min-width: 1024px) {
+  #client-thumbnails {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between; } }
+
+.client-card {
+  font-family: 'Myriad Pro';
+  font-size: .8em;
+  max-width: 90%;
+  margin: 0 auto;
+  padding: 2em 0; }
+  .client-card img {
+    width: 100px;
+    height: 100px;
+    border-radius: 100% 100%; }
+  .client-card p {
+    padding: 2.5em 0;
+    margin: 0; }
+  .client-card h2 {
+    margin: 0;
+    padding: 0;
+    font-weight: 100;
+    color: #ad974f; }
+
+/* =====================
+FOOTER
+======================= */
+#main-footer {
+  margin: 0;
+  padding: 0; }
+  #main-footer p {
+    font-size: .6em;
+    color: #ad974f;
+    padding: 5em 0;
+    margin: 0; }
+    @media (min-width: 1024px) {
+      #main-footer p {
+        font-size: 1em;
+        padding: 2em 0; } }
+
+/*# sourceMappingURL=application.css.map */
+
+/*
+ FOR JAVASCRIPTS
+*/
+
+#overlay {
+  background-color: rgba(0,0,0,0.7);
+  position: absolute;
+  top:0;
+  left: 0;
+  display: none;
+  height: 100%;
+  width: 100%;
+}

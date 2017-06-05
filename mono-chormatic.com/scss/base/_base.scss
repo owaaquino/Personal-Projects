@@ -1,0 +1,28 @@
+/* ===========================
+GENERAL LAYOUTS
+==============================*/
+body {
+	text-align: center;	
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+h1, h2, h3, h4, h5, h6, p, img {
+	margin: 0;
+	padding: 0;
+}
+
+div {
+	
+}
+
+a {
+	text-decoration: none;
+}
+
+#main-header, 
+#main-footer {
+	background-color: $blacksheep;	
+}
+

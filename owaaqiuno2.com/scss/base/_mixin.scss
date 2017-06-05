@@ -1,0 +1,13 @@
+// Border and backgorund
+
+@mixin border-background($borderstyle, $backgroundcolor){	
+	border-style: $borderstyle;
+	background-color: $backgroundcolor;
+}
+
+// margin and padding 
+
+@mixin margin-padding($margin, $padding) {
+	margin: $margin;
+	padding: $padding;
+}

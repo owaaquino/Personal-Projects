@@ -1,0 +1,15 @@
+// margin and padding 
+
+@mixin margin-padding($margin, $padding) {
+	margin: $margin;
+	padding: $padding;
+}
+
+// hide text show image instead
+@mixin hide-text-show-image($image){
+    overflow:hidden;
+    text-indent:-9000px;
+    display:inline-block;
+
+    background: url($image) no-repeat;
+}

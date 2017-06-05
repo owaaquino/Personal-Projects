@@ -1,0 +1,66 @@
+/* ========================
+NAVIGATION
+========================== */
+#main-nav {
+	margin-top: 3em;	
+
+	& ul {
+		@include margin-padding(0,0);
+
+		@media #{$desktop-breakpoint}{
+			display: flex;
+			flex-direction: row;
+		}
+	}
+
+	& li {
+		@media #{$desktop-breakpoint}{
+			padding: 0 1em;
+		}
+	}
+
+	& a {
+
+		text-transform: uppercase;
+		font-size: x-large;
+		color: $goldenbar;
+
+		
+	}
+
+	& a:hover {
+		border-bottom: 1px solid $goldenbar;
+	}
+
+
+}
+
+#gallery-nav{
+	margin: 50px 0;
+	font-family: $sansfamily;
+	font-weight: 100;
+
+	& ul {
+		@include margin-padding(0,5px);
+
+		@media #{$desktop-breakpoint}{
+			display: flex;
+			flex-direction: row;
+			justify-content: center;
+		}
+	}
+
+	& li {
+		padding-right: 10px;
+	}
+	& a {
+		color: $blacksheep;
+		text-transform: uppercase;
+		
+	}
+
+	& a:hover {
+		border-bottom: 1px solid $blacksheep;
+	}
+
+}
